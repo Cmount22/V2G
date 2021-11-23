@@ -173,7 +173,7 @@ Account Log-in
 
 	
 ### Login Screenshots
-(working on a gif walkthrough)
+
 
 <img src="https://user-images.githubusercontent.com/57336741/142354050-79695d4e-6be5-4407-83bd-00f65c1d8bba.jpg">
 <img src="https://user-images.githubusercontent.com/57336741/142354293-0cc28a16-48ba-47da-967c-e4a739605559.jpg)">
@@ -182,3 +182,5 @@ Account Log-in
 
 
 <img src='https://github.com/GroupOneIntro2Mobile/GroupOne-/blob/main/V2Gapp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Cmount22/V2G/blob/master/V2Gapp11-22.gif' title='Video Walkthrough #2' width='' alt='Video Walkthrough' />
+
