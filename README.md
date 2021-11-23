@@ -172,13 +172,7 @@ Account Log-in
 
 
 	
-### Login Screenshots
 
-
-<img src="https://user-images.githubusercontent.com/57336741/142354050-79695d4e-6be5-4407-83bd-00f65c1d8bba.jpg">
-<img src="https://user-images.githubusercontent.com/57336741/142354293-0cc28a16-48ba-47da-967c-e4a739605559.jpg)">
-<img src="https://user-images.githubusercontent.com/57336741/142354306-d181d266-0fbe-46b6-b7bc-19b0ee06d107.jpg)">
-<img src="https://user-images.githubusercontent.com/57336741/142354320-3b71f463-9d68-414b-889d-989743c9dca4.jpg)">
 
 
 <img src='https://github.com/GroupOneIntro2Mobile/GroupOne-/blob/main/V2Gapp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
