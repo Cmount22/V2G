@@ -33,7 +33,9 @@ Original App Design Project - README Template
 
 * [X] Create a log-in page
 * [X] Create users for database
-* [] Create home screen
+* [X] Create home screen
+* [X] Database created with users
+* [X] Sync back4app with V2G App
 * Add microphone widget
 * Create confirmation screen
 * Add payment processor
