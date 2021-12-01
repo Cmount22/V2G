@@ -36,11 +36,11 @@ Original App Design Project - README Template
 * [X] Create home screen
 * [X] Database created with users
 * [X] Sync back4app with V2G App
-* [X]Create location search screen
-* []Add microphone widget
-* []Create confirmation screen
-* []Add payment processor
-* []Thank you screen
+* [X] Create location search screen
+* []  Add microphone widget
+* []  Create confirmation screen
+* []  Add payment processor
+* []  Thank you screen
 
 **Optional Nice-to-have Stories**
 
@@ -179,4 +179,6 @@ Account Log-in
 
 <img src='https://github.com/GroupOneIntro2Mobile/GroupOne-/blob/main/V2Gapp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://github.com/Cmount22/V2G/blob/master/V2Gapp11-22.gif' title='Video Walkthrough #2' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Cmount22/V2G/blob/master/V2Gapp11-22.gif' title='Video Walkthrough #2' width='' alt='Video Walkthrough' />
+
 
