@@ -36,17 +36,19 @@ Original App Design Project - README Template
 * [X] Create home screen
 * [X] Database created with users
 * [X] Sync back4app with V2G App
-* Add microphone widget
-* Create confirmation screen
-* Add payment processor
-* Thank you screen
+* [X]Create location search screen
+* []Add microphone widget
+* []Create confirmation screen
+* []Add payment processor
+* []Thank you screen
 
 **Optional Nice-to-have Stories**
 
 
-* Uer is able to view previous orders
+* User is able to view previous orders
 * User is able to save orders
 * Create a rewards system
+* Enable Google maps
 
 ### 2. Screen Archetypes
 
