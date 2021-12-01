@@ -177,8 +177,7 @@ Account Log-in
 
 
 
-<img src='https://github.com/GroupOneIntro2Mobile/GroupOne-/blob/main/V2Gapp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://github.com/Cmount22/V2G/blob/master/V2Gapp11-22.gif' title='Video Walkthrough #2' width='' alt='Video Walkthrough' />
+
 <img src='https://github.com/Cmount22/V2G/blob/master/V2Gapp11-30.gif' title='Video Walkthrough #2' width='' alt='Video Walkthrough' />
 
 
