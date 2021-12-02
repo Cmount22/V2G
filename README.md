@@ -179,5 +179,6 @@ Account Log-in
 
 
 <img src='https://github.com/Cmount22/V2G/blob/master/V2Gapp11-30.gif' title='Video Walkthrough #2' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Cmount22/V2G/blob/master/V2G12-1.gif' title='Video Walkthrough #2' width='' alt='Video Walkthrough' />
 
 
